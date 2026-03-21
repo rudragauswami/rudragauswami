@@ -3,7 +3,7 @@ Hi there! 👋 I'm Rudrapuri Gauswami.
 
 I'm an Electronics & Communication Engineering student (Class of 2026) who found his true passion in backend logic and enterprise software. I love getting deep into the zone to build systems that are not just highly functional, but feel intuitive and seamless for the end-user.
 
-Currently working full-time, on-site as a **Python & Odoo Developer Intern** with 448+ hours of production-level experience building and deploying enterprise ERP applications in Odoo 18 & 19.
+Currently working full-time, on-site as a **Python & Odoo Developer Intern** — 500+ hours completed out of a 700-hour enterprise development program, building and deploying production-level ERP applications in Odoo 18 & 19.
 
 - 🔭 **Currently working on:** Custom enterprise applications in Odoo 18 & 19 — including a CRM module for GTU PMMS, a Library Management System, and Manufacturing Priority extensions.
 - 🌱 **Currently learning:** Advanced ERP architecture, Odoo RPC & REST API integration, and exploring AI/ML applications in embedded systems.
