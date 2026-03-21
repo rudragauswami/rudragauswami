@@ -1,21 +1,33 @@
 # 💫 About Me:
 Hi there! 👋 I'm Rudrapuri Gauswami.
 
-I'm an Electronics & Communication Engineering student (Class of 2026) who found his true flow state in backend logic and enterprise software. I consider myself a "vibe coder"—I love getting into the zone to build digital environments that are not just highly functional, but feel intuitive and seamless for the end-user. 
+I'm an Electronics & Communication Engineering student (Class of 2026) who found his true passion in backend logic and enterprise software. I love getting deep into the zone to build systems that are not just highly functional, but feel intuitive and seamless for the end-user.
 
-Currently, I'm working as a Python & Odoo Developer Intern, translating complex business requirements into efficient, scalable code. 
+Currently working full-time, on-site as a **Python & Odoo Developer Intern** with 448+ hours of production-level experience building and deploying enterprise ERP applications in Odoo 18 & 19.
 
-* 🔭 **Currently working on:** Architecting custom enterprise applications in Odoo 18 & 19, including custom CRM modules, Library Management systems, and Manufacturing Priority extensions.
-* 🌱 **Currently learning:** Advanced Odoo ORM methods (create, write, search), scalable architecture, and exploring emerging AI technologies.
-* 🛠️ **Tech Stack:** Python, Odoo Framework, PostgreSQL, XML, OOP.
-* 📫 **How to reach me:** Drop me an email at gauswamirudra497@gmail.com or connect with me on LinkedIn!
-
+- 🔭 **Currently working on:** Custom enterprise applications in Odoo 18 & 19 — including a CRM module for GTU PMMS, a Library Management System, and Manufacturing Priority extensions.
+- 🌱 **Currently learning:** Advanced ERP architecture, Odoo RPC & REST API integration, and exploring AI/ML applications in embedded systems.
+- 🛠️ **Tech Stack:** Python, Odoo Framework (v18/v19), PostgreSQL, XML, C/C++, OOP.
+- 📫 **How to reach me:** gauswamirudra497@gmail.com or connect on LinkedIn!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrapurigauswami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauswamirudra497@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrapurigauswami)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rudragauswami)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauswamirudra497@gmail.com)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rudragauswami&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
