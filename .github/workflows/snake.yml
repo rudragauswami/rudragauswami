@@ -15,7 +15,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: rudragauswami
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&weeks=17
+            dist/github-contribution-grid-snake.svg?palette=github&weeks=17
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
