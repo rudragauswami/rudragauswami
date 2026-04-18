@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Every Sunday midnight
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 permissions:
@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: rudragauswami
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&weeks=17
-            dist/github-contribution-grid-snake.svg?palette=github&weeks=17
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&weeks=21
+            dist/github-contribution-grid-snake.svg?palette=github&weeks=21
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
