@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=714B67&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rudrapuri+Gauswami+%F0%9F%91%8B;Python+%26+Odoo+Developer;ECE+Engineer+%7C+Class+of+2026;500%2B+Hours+of+Enterprise+ERP+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=714B67&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rudrapuri+Gauswami+%F0%9F%91%8B;Python+%26+Odoo+Developer;ECE+Engineer+%7C+Class+of+2026;650%2B+Hours+of+Enterprise+ERP+Dev" alt="Typing SVG" />
 </div>
 
 ---
@@ -8,7 +8,7 @@
 
 I'm an Electronics & Communication Engineering student (Class of 2026) who found his true passion in backend logic and enterprise software. I love getting deep into the zone to build systems that are not just highly functional, but feel intuitive and seamless for the end-user.
 
-Currently working full-time, on-site as a **Python & Odoo Developer Intern** — 500+ hours completed out of a 700-hour enterprise development program, building and deploying production-level ERP applications in Odoo 18 & 19.
+Currently working full-time, on-site as a **Python & Odoo Developer Intern** — 650+ hours completed out of a 700-hour enterprise development program, building and deploying production-level ERP applications in Odoo 18 & 19.
 
 - 🔭 **Currently working on:** Custom enterprise applications in Odoo 18 & 19 — including a CRM module for GTU PMMS, a Library Management System, and Manufacturing Priority extensions.
 - 🌱 **Currently learning:** Advanced ERP architecture, Odoo RPC & REST API integration, and exploring AI/ML applications in embedded systems.
