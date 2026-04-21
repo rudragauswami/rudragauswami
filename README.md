@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=714B67&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rudrapuri+Gauswami+%F0%9F%91%8B;Python+%26+Odoo+Developer;ECE+Engineer+%7C+Class+of+2026;650%2B+Hours+of+Enterprise+ERP+Dev" alt="Typing SVG" />
-</div>
+</div> 
 
 ---
 
